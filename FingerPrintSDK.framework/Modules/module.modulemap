@@ -1,6 +1,0 @@
-framework module FingerPrintSDK {
-  umbrella header "FingerPrintSDK.h"
-
-  export *
-  module * { export * }
-}
