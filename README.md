@@ -13,7 +13,7 @@
 // IMPORT THE FRAMEWORK
 #import <FingerPrintSDK/FingerPrintSDK.h>
 
-// GET SESSION ID ( Param: debug: YES or NOT)
+// GET SESSION ID ( Param: debug: true or false)
 NSString * sessionID = [FingerPrint getSessionId:true];
 
 ```
